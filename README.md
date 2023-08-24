@@ -16,7 +16,7 @@
 
 - Love to learn new things to expand my knowledge.
 - I’m currently studying a technical degree in software development at <a href="https://ies9023-infd.mendoza.edu.ar/sitio/">IES 9023 from Mendoza Argentina.</a>
-- I work as a Freelancer, developing amazing websites with my coworker <a href="https://www.linkedin.com/in/exegozategui/">Exequiel</a>.
+- I work as a Freelancer developer, creating amazing websites with my coworker <a href="https://www.linkedin.com/in/exegozategui/">Exequiel</a>.
 - Open to share knowledge and help anyone!
 
 
