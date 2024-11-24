@@ -1,110 +1,114 @@
-
-<h1 align="center"><b>  👽 Hey there! I'm Tomy! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b style="color: #700E95FF;">👽 Hola Gente! Mi nombre es Tomás! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=500&color=13C547&center=true&vCenter=true&width=435&height=100&lines=Software+Developer;Web+Developer;Data-Base+Designer;UI+Designer" alt="Typing SVG" /></a>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=700E95&center=true&vCenter=true&width=435&lines=Desarrollador+De+Software+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Emprendedor+Digital+%F0%9F%9A%80;Internauta+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-</p>
-
-<br>
+<div style="background-image: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXVtcWN5NWpxbmUxenJrNGp4YjBxdHc0cTZjdnB1ZGN1Nm1pYzcxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qBhrlNooHBYR9f2/giphy.webp'); background-size: cover; padding: 20px; color: white; text-align: center;">
 
 
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- Love to learn new things to expand my knowledge.
-- I’m currently studying a technical degree in software development at <a href="https://ies9023-infd.mendoza.edu.ar/sitio/">IES 9023 from Mendoza Argentina.</a>
-- I work as a Freelancer developer, creating amazing websites with my coworker <a href="https://www.linkedin.com/in/exegozategui/">Exequiel</a>.
-- Open to share knowledge and help anyone!
+# <img src = "https://tomasponce.vercel.app/images/penguin.webp" width = 50px style="justify-self:start"> Sobre Mí
+
+<ul style="display:flex;flex-direction:column;align-items:start;align-text:left;gap:20px;">
+    <li style="font-size:18px;text-align:left">Co-Founder de <a href="https://asterbizz.com">Asterbizz 🛸</a>. Empresa de Desarrollo Web y Software Empresarial. 🚀</li>
+    <li style="font-size:18px;text-align:left">Técnico Desarrollador de Software, egresado de <a href="https://ies9023-infd.mendoza.edu.ar/sitio/">IES 9023</a> de Mendoza, Argentina. 🌄🍷</li>
+    <li style="font-size:18px;text-align:left">Ayudo a empresas y emprendedores a construir su identidad digital. 🌐</li>
+</ul>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b style="margin-left:15px; color:#009dc9;"> Tecnologías</b>
+
 <br>
 
 <p align="center">
 
-- **Languages**:
+- <b style="color: #700E95FF;"><u>Lenguajes</u><b/>:
     
-    ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=blue&color=blue)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=Javascript&logoColor=white&labelColor=yellow&color=yellow)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=Typescript&logoColor=blue&labelColor=black&color=black)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=Javascript&logoColor=yellow&labelColor=black&color=black)
+    ![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=Dart&logoColor=rebeccapurple&labelColor=black&color=black)
 
 <br>   
     
-- **Front-End Development**:
+- <b style="color: #700E95FF;"><u>Desarrollo Front-End</u><b/>:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=white&labelColor=blue&color=blue)
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=cyan&color=black)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=cyan&color=black)
+   ![React](https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=React&logoColor=cyan&labelColor=black&color=black)
+   ![Next](https://img.shields.io/badge/next-NextJS-cyan?style=for-the-badge&logo=Next&logoColor=cyan&labelColor=black&color=black)
+   ![tailwind-css](https://img.shields.io/badge/Tailwind%20-%231572B6.svg?style=for-the-badge&logo=tailwind-css&logoColor=cyan&labelColor=black&color=black)
    <!-- ![CSS3]() -->
 
 <br>
 
-- **Back-End Development**: 
+- <b style="color: #700E95FF;"><u>Desarrollo Back-End</u><b/>:
 
-   ![PRISMA](https://img.shields.io/badge/Prisma%20ORM-white?style=for-the-badge&logo=Prisma&logoColor=violet&labelColor=black&color=black)
-   ![EXPRESS](https://img.shields.io/badge/Express%20Framework-white?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=black)
-   ![NODEJS](https://img.shields.io/badge/%20NodeJS-yellow?style=for-the-badge&logo=Node.js&logoColor=yellow&labelColor=black&color=black)
-
-<br>
-
-- **Data-Bases**:
-
-   ![MARIADB](https://img.shields.io/badge/MariaDB-white?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=gray&color=gray)
-   ![MONGODB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=green&color=green)
+   ![PRISMA](https://img.shields.io/badge/Prisma%20ORM-white?style=for-the-badge&logo=Prisma&logoColor=blue&labelColor=black&color=black)
+   ![EXPRESS](https://img.shields.io/badge/Express%20Framework-white?style=for-the-badge&logo=express&logoColor=blue&labelColor=black&color=black)
+   ![NODEJS](https://img.shields.io/badge/%20NodeJS-yellow?style=for-the-badge&logo=Node.js&logoColor=blue&labelColor=black&color=black)
+   ![NGINX](https://img.shields.io/badge/%20Nginx-yellow?style=for-the-badge&logo=nginx&logoColor=blue&labelColor=black&color=black)
 
 <br>
 
-- **Cloud Hosting**:
+- <b style="color: #700E95FF;"><u>Bases de Datos</u><b/>:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![FireBase by Google](https://img.shields.io/badge/FireBase-white?style=for-the-badge&logo=firebase&logoColor=yellow&labelColor=red&color=red)
+   ![MYSQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=green&labelColor=black&color=black)
+   ![postgresql](https://img.shields.io/badge/postgres-green?style=for-the-badge&logo=postgresql&logoColor=green&labelColor=black&color=black)
+   ![mariadb](https://img.shields.io/badge/mariadb-green?style=for-the-badge&logo=mariadb&logoColor=green&labelColor=black&color=black)
+   ![MONGODB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=black&color=black)
+
     
 <br>
 
-- **Softwares and Tools**:
+- <b style="color: #700E95FF;"><u>Software y Herramientas</u><b/>:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+    ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=red&color=black&) 
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=red&color=black)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=red&color=black)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=&logoColor=white&color=black)
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<h2 align="center">How can I help you? </h2>
+<div style="background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGR6b3k3djR5dnJ3MGd0NTB3bnA3OWVqZjFoZzJmenY5ZTdydDN6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IV7MOCfnm85iRa/giphy.webp'); background-size: cover; padding: 20px; color: white; text-align: center;">
+
+
+
+<h2 align="center">Trabajemos juntos! 🌌</h2>
+
+    
 
 <div align='center'>
- <b> Let's Connect..!</b>
-<br>
-<br>
- <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+ <b style="color: violet;">Conectate conmigo en LinkedIn o mandame un E-Mail a mi correo personal, o al de mi empresa! 👾</b>
 <br>
 <br>
 <a href="https://linkedin.com/in/tpnce6" target="_blank">
-<img src="https://img.shields.io/badge/Tomás Ponce-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Tomás Ponce-%2300acee.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=blue" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 <a href="mailto:ponce.code.mza@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/ponce.code.mza@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/ponce.code.mza@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=rebeccapurple&color=black" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:contacto@asterbizz.com" target="_blank">
+<img src="https://img.shields.io/badge/contacto@asterbizz.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=rebeccapurple&color=black" t=mail style="margin-bottom: 5px;" />
 </a>
 </div>
-
 <br>
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFybWo5MGcyMTg4Z3BsaW53NTBtdXdvMDRtczBlM3hmNDdqcmxkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xwNU0DtzTaqNTGmswx/giphy.webp" width ="420">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
 
-Template by: [Abdul Khalid](https://github.com/0xabdulkhalid) and modified by me :)
+
+<p style="color: white; background-color:#700E9555; width:fit-content; margin:auto;padding:10px;">
+No olvides visitarnos en <a style="color: #00ccff;" href="https://www.asterbizz.com">Asterbizz.com 🛸 </a>
+</p>
+</div>
+
